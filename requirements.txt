@@ -1,0 +1,4 @@
+seleniumwrapper==0.5.4
+pytest_allure_adaptor==1.7.10
+selenium==3.141.0
+pytest==3.1.0
